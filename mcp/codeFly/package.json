@@ -1,0 +1,16 @@
+{
+  "name": "cursor-code-generation-enhancer",
+  "version": "1.0.0",
+  "description": "MCP服务用于增强AI代码生成质量",
+  "main": "mcp-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node mcp-server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.23.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "code-generation-enhancer": {
+      "command": "node",
+      "args": ["/Users/leo/Documents/GitHub/geeker/mcp/codeFly/mcp-server.js"]
+    }
+  }
+}

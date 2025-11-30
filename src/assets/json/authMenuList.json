@@ -16,6 +16,20 @@
       }
     },
     {
+      "path": "/todo",
+      "name": "todo",
+      "component": "/todo/index",
+      "meta": {
+        "icon": "List",
+        "title": "待办事项",
+        "isLink": "",
+        "isHide": false,
+        "isFull": false,
+        "isAffix": false,
+        "isKeepAlive": true
+      }
+    },
+    {
       "path": "/dataScreen",
       "name": "dataScreen",
       "component": "/dataScreen/index",
